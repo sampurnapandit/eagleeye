@@ -1,0 +1,40 @@
+body{
+    font-family:  sans-serif;
+}
+
+
+.content {
+    background: rgb(202, 196, 196);
+}
+
+.home {
+    flex: 3;
+    margin-left: 5%;
+}
+
+.wrapper {
+    padding: 15px;
+    display: flex;
+    background-color:rgba(2, 4, 0, 0.2);
+}
+
+.link-primary{
+    flex: 3;
+}
+
+
+.analyze {
+    text-align: center;
+    padding-top: 20%;
+}
+
+.container {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.container-fluid {
+    background-color: #2A82D9;
+    line-height: 50px;
+   
+}
